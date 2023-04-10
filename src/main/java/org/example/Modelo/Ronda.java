@@ -11,6 +11,7 @@ public class Ronda {
     }
 
     public int puntos(){
+
         int resultado= 0;
 
         return resultado;
@@ -31,4 +32,6 @@ public class Ronda {
     public void setPartidos(Partido[] partidos) {
         this.partidos = partidos;
     }
+
+
 }
